@@ -109,7 +109,7 @@ function Login({ setIsLogin }) {
 
                     <div className="right_data" style={{ width: "100%" }}>
                         <div className="sign_img mt-3">
-                            <img src='./signup.png' style={{ maxWidth: 450 }} alt='Not Found!' />
+                            <img src='https://img.freepik.com/free-vector/modern-check-list-illustration_79603-146.jpg?size=626&ext=jpg&ga=GA1.1.698033446.1657733709&semt=ais' style={{ maxWidth: 450 }} alt='OOPS!! NOT AVAILABLE' />
                         </div>
                     </div>
 
